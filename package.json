@@ -1,0 +1,21 @@
+{
+  "name": "siteopssysinfo",
+  "version": "0.1.2",
+  "description": "An API that uses SiteOpsBot to provide system information.",
+  "main": "sysinfo.js",
+  "scripts": {
+    "start": "node sysinfo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymouse11/siteopssysinfo.git"
+  },
+  "dependencies": {
+    "siteopsguardian": "^0.1.0",
+    "siteopssysinfo": "^0.1.0",
+    "siteopswebstatus": "^0.1.0",
+    "express": "^4.17.1"
+  },
+  "author": "profile-nizar",
+  "license": "MIT"
+}
